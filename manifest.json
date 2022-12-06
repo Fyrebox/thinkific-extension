@@ -1,0 +1,12 @@
+{
+  "name": "Fyrebox Quizzes",
+  "author": "Cyril",
+  "version": "0.0.2",
+  "repository": "https://github.com/fyrebox/thinkific-extension",
+  "documentation_url": "https://github.com/fyrebox/thinkific-extension/blob/master/README.md",
+  "support_url": "https://github.com/your-account//thinkific-extension/issues",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon@2x.png"
+  }
+}
