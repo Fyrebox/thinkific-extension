@@ -1,4 +1,4 @@
-# FYREBOX QUIZ EXTENSION
+# FYREBOX QUIZ THINKIFIC THEME EXTENSION
 
 This app extension displays a quiz in a Thinkific course
 
